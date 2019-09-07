@@ -1,0 +1,70 @@
+{
+  "orders": [
+    {
+      "id": "367f6598-671a-48b9-8465-06562d80d95b",
+      "cart": {
+        "id": "f4533a11-5f1a-45c8-be29-071e155da420",
+        "cart": [
+          {
+            "typeOfShell": "раскладушка",
+            "name": "Xiaomi",
+            "price": 970,
+            "numerator": 5,
+            "firm": "Китай",
+            "model": "2019 года",
+            "os": "IOS"
+          }
+        ],
+        "uuids": [
+          null
+        ]
+      },
+      "user": {
+        "ID": "aa63dd59-aa16-4d82-8f09-b73e2aa841af",
+        "firstname": "Михаил",
+        "lastname": "Чигуров",
+        "middlename": "Евгеньевич",
+        "email": "vip.moneta95@mail.ru"
+      },
+      "dateCreate": "сент. 5, 2019",
+      "timeWaiting": 1,
+      "status": "WAITING",
+      "address": "127.0.0.1",
+      "port": 0
+    }
+  ],
+  "dateOrder": {
+    "2019-09-05": {
+      "id": "367f6598-671a-48b9-8465-06562d80d95b",
+      "cart": {
+        "id": "f4533a11-5f1a-45c8-be29-071e155da420",
+        "cart": [
+          {
+            "typeOfShell": "раскладушка",
+            "name": "Xiaomi",
+            "price": 970,
+            "numerator": 5,
+            "firm": "Китай",
+            "model": "2019 года",
+            "os": "IOS"
+          }
+        ],
+        "uuids": [
+          null
+        ]
+      },
+      "user": {
+        "ID": "aa63dd59-aa16-4d82-8f09-b73e2aa841af",
+        "firstname": "Михаил",
+        "lastname": "Чигуров",
+        "middlename": "Евгеньевич",
+        "email": "vip.moneta95@mail.ru"
+      },
+      "dateCreate": "сент. 5, 2019",
+      "timeWaiting": 1,
+      "status": "WAITING",
+      "address": "127.0.0.1",
+      "port": 0
+    }
+  }
+}
